@@ -1,9 +1,3 @@
-CN101
-
-Problem code:
-WD212
-
-Problem Title:
 Instructor Course Management and Assessment Tool
 
 Problem statement:
